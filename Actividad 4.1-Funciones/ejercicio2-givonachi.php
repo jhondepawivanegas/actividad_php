@@ -23,7 +23,7 @@ function generarFibonacci($numero) {
 
 // Solicitar entrada al usuario desde la consola
 
-$numero = (int) readline("ingrese un numero");
+$numero = (int) readline("ingrese un numero:");
 
 // Generar y mostrar la secuencia de Fibonacci
 generarFibonacci($numero);
